@@ -1,0 +1,10 @@
+.custom-css {
+    border-left: 10px solid rgb(207, 207, 207);
+
+}
+
+:hover.custom-css {
+    border-left: 10px solid salmon;
+    transition: all ease-in;
+    transition-duration: 200ms;
+}
